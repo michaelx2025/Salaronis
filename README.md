@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Salaronis
-- 👀 I’m interested in ...
+- 👀 I’m interested in Computer Science and how to create tools to help others
 - 🌱 I’m currently learning JavaScript, Java, and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything that seems interesting or fun, whether that be a weekend project, or a product that helps many people perform their jobs
 - 📫 How to reach me ...
 
 <!---
